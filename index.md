@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/computer (2).png?raw=true"/>
+<img src="images/folder.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/artificial-intelligence (1).png?raw=true"/>
+<img src="images/folder.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
