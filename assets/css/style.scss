@@ -9,7 +9,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#222;
+  color:#262626;
   font-weight: bold;
 }
 
@@ -20,6 +20,7 @@ a small {
   display:block;
 }
 
-a:hover small {
-  color:#222;
+a:hover small, a:focus small {
+  color:	#262626;
+  font-weight: bold;
 }
