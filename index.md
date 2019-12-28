@@ -2,7 +2,7 @@
 
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png">
 
 ### Category Name 1 
 
