@@ -1,7 +1,8 @@
 ## Portfolio
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
 ---
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
