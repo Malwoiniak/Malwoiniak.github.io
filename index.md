@@ -23,7 +23,7 @@
 ---
 [image processiong and manipulation](http://example.com/)
 
-<img src="images/three.png?raw=true"/>
+<img src="images/four.png?raw=true"/>
 
 ### Category Name 2
 
