@@ -6,9 +6,9 @@
 
 ### Category Name 1 
 
-[**funny games**](/pdf/sample_presentation.pdf)
+[<h2>**funny games**</h2>](/pdf/sample_presentation.pdf)
 
-<img src="images/two.png?raw=true"/>
+<img src="images/funny.png?raw=true"/>
 
 ---
 [**text visualization with dash**](http://example.com/)
