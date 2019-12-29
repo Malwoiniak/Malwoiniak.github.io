@@ -13,7 +13,7 @@
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
-<img src="images/one.png?raw=true"/>
+<img src="images/two.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
