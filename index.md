@@ -6,22 +6,22 @@
 
 ### Category Name 1 
 
-[<h2>**funny games**</h2>](/pdf/sample_presentation.pdf)
+[<h3>**funny games**</h3>](/pdf/sample_presentation.pdf)
 
 <img src="images/funny.png?raw=true"/>
 
 ---
-[**text visualization with dash**](http://example.com/)
+[<h3>**text visualization with dash**</h3>](http://example.com/)
 
 <img src="images/three.png?raw=true"/>
 
 ---
-[**image processiong and manipulation**](http://example.com/)
+[<h3>**image processiong and manipulation**</h3>](http://example.com/)
 
 <img src="images/four.png?raw=true"/>
 
 ---
-[**text processing with regex**](/pdf/sample_presentation.pdf)
+[<h3>**text processing with regex**</h3>](/pdf/sample_presentation.pdf)
 
 <img src="images/two.png?raw=true"/>
 
