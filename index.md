@@ -6,19 +6,25 @@
 
 ### Category Name 1 
 
-##[text processing with regex](/pdf/sample_presentation.pdf)
+[**funny games**](/pdf/sample_presentation.pdf)
 
 <img src="images/two.png?raw=true"/>
 
 ---
-[text visualization with dash](http://example.com/)
+[**text visualization with dash**](http://example.com/)
 
 <img src="images/three.png?raw=true"/>
 
 ---
-[image processiong and manipulation](http://example.com/)
+[**image processiong and manipulation**](http://example.com/)
 
 <img src="images/four.png?raw=true"/>
+
+---
+[**text processing with regex**](/pdf/sample_presentation.pdf)
+
+<img src="images/two.png?raw=true"/>
+
 
 ### Category Name 2
 
