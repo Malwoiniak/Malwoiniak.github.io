@@ -6,21 +6,24 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[simple text processing with python](/sample_page)
 
 <img src="images/one.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[text processing with regex](/pdf/sample_presentation.pdf)
 
 <img src="images/two.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[text visualization with dash](http://example.com/)
 
-<img src="images/one.png?raw=true"/>
+<img src="images/three.png?raw=true"/>
 
 ---
+[image processiong and manipulation](http://example.com/)
+
+<img src="images/three.png?raw=true"/>
 
 ### Category Name 2
 
