@@ -6,12 +6,7 @@
 
 ### Category Name 1 
 
-[simple text processing with python](/sample_page)
-
-<img src="images/one.png?raw=true"/>
-
----
-[text processing with regex](/pdf/sample_presentation.pdf)
+##[text processing with regex](/pdf/sample_presentation.pdf)
 
 <img src="images/two.png?raw=true"/>
 
