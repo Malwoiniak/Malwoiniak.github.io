@@ -6,7 +6,7 @@
 
 ### Category Name 1 
 
-[**funny games**](/pdf/sample_presentation.pdf)
+[**funny games**](/sample_page)
 
 <img src="images/funny.png?raw=true"/>
 
