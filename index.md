@@ -6,7 +6,7 @@
 
 ### Category Name 1 
 
-[**funny games**](/sample_page)
+[**funny games**](/funny_games)
 
 <img src="images/funny.png?raw=true"/>
 
