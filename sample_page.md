@@ -1,11 +1,11 @@
-# funny-games
+# funny games
 > First little games. Created to play around with Python.
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Get the code](#contact)
+* [Get the code](#Get-the-code)
 
 ## General info
 **guess_the_number:** Asks the user to guess the number from 1 to 100. Allows 5 attempts. 
