@@ -1,7 +1,7 @@
 # funny games
 > First little games. Created to play around with Python.
 
-![puzzle](/images/puzzle.gif)
+![puzzle](/images/puzzle2.gif)
 
 ## Table of contents
 * [General info](#general-info)
