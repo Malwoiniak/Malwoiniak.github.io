@@ -1,11 +1,12 @@
 # funny games
 > First little games. Created to play around with Python.
+![puzzle](https://github.com/Malwoiniak/Malwoiniak.github.io/blob/master/images/puzzle.gif)
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Get the code](#Get-the-code)
+* [Get the code](#get-the-code)
 
 ## General info
 **guess_the_number:** Asks the user to guess the number from 1 to 100. Allows 5 attempts. 
