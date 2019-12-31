@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Contact](#contact)
+* [Get the code](#contact)
 
 ## General info
 **guess_the_number:** Asks the user to guess the number from 1 to 100. Allows 5 attempts. 
@@ -21,3 +21,6 @@ Done to practice Python as a gift-joke for my expat collegues to help them 'blen
 
 ## Status
 Project is _in progress_, new simple funny games will be added every now and then.
+
+## Get the code
+To see the code of _funny-games_, click [here](https://github.com/Malwoiniak/funny-games)
