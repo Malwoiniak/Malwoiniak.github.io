@@ -1,7 +1,7 @@
 # funny games
 > First little games. Created to play around with Python.
 
-![puzzle](https://github.com/Malwoiniak/Malwoiniak.github.io/blob/master/images/puzzle.gif)
+![puzzle](/images/puzzle.gif)
 
 ## Table of contents
 * [General info](#general-info)
