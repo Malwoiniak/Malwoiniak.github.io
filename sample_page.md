@@ -20,4 +20,4 @@ Done to practice Python as a gift-joke for my expat collegues to help them 'blen
 * Python 3.7
 
 ## Status
-Project _in progress_, new simple funny games will be added every now and then.
+Project is _in progress_, new simple funny games will be added every now and then.
