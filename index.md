@@ -6,7 +6,7 @@
 
 ### Category Name 1 
 
-[**funny games**](malwoiniak.github.io/funny_games)
+[**funny games**](/sample_page)
 
 <img src="images/funny.png?raw=true"/>
 
