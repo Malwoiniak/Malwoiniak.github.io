@@ -1,5 +1,6 @@
 # funny games
 > First little games. Created to play around with Python.
+
 ![puzzle](https://github.com/Malwoiniak/Malwoiniak.github.io/blob/master/images/puzzle.gif)
 
 ## Table of contents
@@ -24,4 +25,4 @@ Done to practice Python as a gift-joke for my expat collegues to help them 'blen
 Project is _in progress_, new simple funny games will be added every now and then.
 
 ## Get the code
-To see the code of _funny-games_, click [here](https://github.com/Malwoiniak/funny-games)
+To see the code of _funny games_, click [here](https://github.com/Malwoiniak/funny-games)
