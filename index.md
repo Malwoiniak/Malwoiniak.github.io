@@ -11,7 +11,7 @@
 <img src="images/funny.png?raw=true"/>
 
 ---
-[**text visualization with dash**](/funny_games)
+[**text visualization with dash**](/visualization)
 
 <img src="images/three.png?raw=true"/>
 
