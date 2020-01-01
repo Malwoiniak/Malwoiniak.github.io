@@ -16,7 +16,7 @@
 <img src="images/three.png?raw=true"/>
 
 ---
-[**image processing and manipulation**](http://example.com/)
+[**image processing and manipulation**](/image_manipulation)
 
 <img src="images/four.png?raw=true"/>
 
