@@ -43,4 +43,4 @@ Project is _in progress_. TODO:
 - [ ] modify *get_collage* function
 
 ## Get the code
-To see the code of _image manipulation_, click [here]
+To see the code of _image manipulation_, click [here](https://github.com/Malwoiniak/image-manipulation)
