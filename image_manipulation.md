@@ -1,6 +1,6 @@
 # image manipulation
 > Image Manipulation with Python. Pillow library practice.
-[!image](/images/image.gif)
+![image](/images/image.gif)
 
 ## Table of contents
 * [General info](#general-info)
