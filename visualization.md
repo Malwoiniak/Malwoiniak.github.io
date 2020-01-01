@@ -1,5 +1,6 @@
 # text-visualization-with-Dash
 > Text processing and visualization with Python. First steps with Dash.
+
 ![data](/images/data.gif)
 
 ## Table of contents
@@ -40,5 +41,6 @@ Project is _in progress_. TODO:
 - [ ] .csv files manipulation with pandas for Dash visualization
 - [ ] restructuring *sentences.csv* 
 - [ ] bubble chart scaling correction
+
 ## Contact
 To see the code of _text visualization_, click [here](https://github.com/Malwoiniak/text-visualization-with-Dash)
