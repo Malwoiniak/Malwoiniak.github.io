@@ -11,7 +11,7 @@
 <img src="images/funny.png?raw=true"/>
 
 ---
-[**text visualization with dash**](http://example.com/)
+[**text visualization with dash**](/funny_games)
 
 <img src="images/three.png?raw=true"/>
 
@@ -21,7 +21,7 @@
 <img src="images/four.png?raw=true"/>
 
 ---
-[**text processing with regex**](/pdf/sample_presentation.pdf)
+[**text processing with regex**](/text_processing)
 
 <img src="images/two.png?raw=true"/>
 
