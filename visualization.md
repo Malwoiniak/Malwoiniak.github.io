@@ -1,4 +1,4 @@
-# text-visualization-with-Dash
+# text visualization with Dash
 > Text processing and visualization with Python. First steps with Dash.
 
 ![data](/images/data.gif)
