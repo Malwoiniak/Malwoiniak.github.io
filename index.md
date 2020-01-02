@@ -7,7 +7,7 @@
 <img src="images/funny.png?raw=true"/>
 
 ---
-[**simple text processing*](/text_processing)
+[**simple text processing**](/text_processing)
 
 <img src="images/two.png?raw=true"/>
 
