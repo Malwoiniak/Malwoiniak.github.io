@@ -4,7 +4,7 @@
 @import "jekyll-theme-minimal";
 
 a {
-  color:#003366;
+  color:#00CC00;
   text-decoration:none;
   text-align:center;
 }
@@ -18,19 +18,19 @@ a {
 }
 
 a:hover, a:focus {
-  color:#CC3366;
+  color:#000000;
   font-weight: bold;
   
 }
 
 a small {
   font-size:11px;
-  color:#003366;
+  color:#00CC00;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small, a:focus small {
-  color:#CC3366;
+  color:#000000;
   font-weight: bold;
 }
