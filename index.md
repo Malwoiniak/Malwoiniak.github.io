@@ -1,14 +1,13 @@
 ## Portfolio
+---
+[**funny games**](/funny_games)
+
+<img src="images/funny.png?raw=true"/>
 
 ---
 [**text processing with regex**](/text_processing)
 
 <img src="images/two.png?raw=true"/>
-
----
-[**funny games**](/funny_games)
-
-<img src="images/funny.png?raw=true"/>
 
 ---
 [**text visualization with dash**](/visualization)
