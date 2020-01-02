@@ -1,11 +1,13 @@
-## Portfolio
+## I code to solve problems and mess around too! 
+### Check out my latest projects below
+
 ---
 [**funny games**](/funny_games)
 
 <img src="images/funny.png?raw=true"/>
 
 ---
-[**text processing with regex**](/text_processing)
+[**simple text processing*](/text_processing)
 
 <img src="images/two.png?raw=true"/>
 
@@ -15,7 +17,7 @@
 <img src="images/three.png?raw=true"/>
 
 ---
-[**image processing and manipulation**](/image_manipulation)
+[**image manipulation**](/image_manipulation)
 
 <img src="images/four.png?raw=true"/>
 
