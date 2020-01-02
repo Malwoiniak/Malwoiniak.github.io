@@ -26,16 +26,10 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 *dash_visualization.py:* gets .csv files and generates visualization with Dash
 
 ## Illustrations
-**Interactive charts generated with script actions:**
+**Example of interactive chart generated with script actions:**
 
 Scatterplot matrix of words and their frequency|length pairs 
 ![scatter](/images/scatter.jpg)
-
-Stacked bar chart of word and their frequency|length pairs
-![stackbar](/images/stackbar.png)
-
-Bubble chart of sentences with respect to their length|ranking
-![bubble](/images/bubble.png)
 
 ## Technologies
 * Python 3.7
