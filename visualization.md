@@ -29,7 +29,7 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 **Exemplary interactive chart generated with script actions:**
 - Bubble chart of sentences with respect to their length|ranking 
 
-![scatter](/images/bubble.jpg)
+![bubble](/images/bubble.png)
 
 ## Technologies
 * Python 3.7
