@@ -5,6 +5,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Illustrations](#illustrations)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
@@ -24,13 +25,24 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 
 *dash_visualization.py:* gets .csv files and generates visualization with Dash
 
+## Illustrations
+**Interactive charts generated with script actions:**
+
+Scatterplot matrix of words and their frequency|length pairs 
+![scatter](/images/scatter.jpg)
+
+Stacked bar chart of word and their frequency|length pairs
+![stackbar](/images/stackbar.png)
+
+Bubble chart of sentences with respect to their length|ranking
+![bubble](/images/bubble.png)
+
 ## Technologies
 * Python 3.7
 * Dash 1.4.0
 
-
 ## Setup
-Tu run this project, install dash with pip: 
+To run this project, install dash with pip: 
 
 `pip install dash==1.4.0`
 
