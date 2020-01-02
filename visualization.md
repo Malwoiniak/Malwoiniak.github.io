@@ -29,6 +29,7 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 **Example of interactive chart generated with script actions:**
 
 Scatterplot matrix of words and their frequency|length pairs 
+
 ![scatter](/images/scatter.jpg)
 
 ## Technologies
