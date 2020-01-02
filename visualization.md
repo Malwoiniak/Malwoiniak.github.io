@@ -27,7 +27,7 @@ Part of this script is reused from [text-processing-with-regex](https://github.c
 
 ## Illustrations
 **Exemplary interactive chart generated with script actions:**
-- Bubble chart of sentences with respect to their length|ranking 
+- Bubble chart of sentences with respect to their length and ranking 
 
 ![bubble](/images/bubble.png)
 
