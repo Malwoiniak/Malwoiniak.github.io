@@ -42,5 +42,5 @@ Project is _in progress_. TODO:
 - [ ] restructuring *sentences.csv* 
 - [ ] bubble chart scaling correction
 
-## Contact
+## Get the code
 To see the code of _text visualization_, click [here](https://github.com/Malwoiniak/text-visualization-with-Dash)
