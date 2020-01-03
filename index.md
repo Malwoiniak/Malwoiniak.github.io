@@ -1,5 +1,6 @@
-## I code to solve problems and mess around too! 
-### Check out my latest projects below
+## Portfolio
+### I code to solve problems and mess around too! 
+### Check out my latest projects below.
 
 ---
 [**funny games**](/funny_games)
