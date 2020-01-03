@@ -1,7 +1,7 @@
 # text processing with regex
 > Simple text processing, part 2. First steps with regular expressions (regex) in Python.
 
-![text](/images/text.gif)
+![text](/images/text1.gif)
 
 ## Table of contents
 * [General info](#general-info)
