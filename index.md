@@ -1,5 +1,5 @@
 ## Portfolio
-### I code to solve problems and mess around too! 
+### I code to solve problems and mess around! 
 ### Check out my latest projects below.
 
 ---
