@@ -5,22 +5,22 @@
 ---
 [**funny games**](/funny_games)
 
-<img src="images/funny.png?raw=true"/>
+[![funny games](https://malwoiniak.github.io/images/funny.png?raw=true)](https://malwoiniak.github.io/funny_games)
 
 ---
 [**simple text processing**](/text_processing)
 
-<img src="images/two.png?raw=true"/>
+[![txt processing](https://malwoiniak.github.io/images/two.png?raw=true)](https://malwoiniak.github.io/text_processing)
 
 ---
 [**text visualization with dash**](/visualization)
 
-<img src="images/three.png?raw=true"/>
+[![dash vis](https://malwoiniak.github.io/images/three.png?raw=true)](https://malwoiniak.github.io/visualization)
 
 ---
 [**image manipulation**](/image_manipulation)
 
-<img src="images/four.png?raw=true"/>
+[![img analysis](https://malwoiniak.github.io/images/four.png?raw=true)](https://malwoiniak.github.io/image_manipulation)
 
 
 
